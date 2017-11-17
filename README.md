@@ -16,7 +16,6 @@ Why Data-Driven framework?
 - Reduces the maintainability of the scripts.
 - Makes it easy to add new test cases. To add new test cases
 
-
 Demo
 ------
 1- Create Maven project
