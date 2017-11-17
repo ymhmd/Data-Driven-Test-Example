@@ -6,6 +6,7 @@ Tools and Java APIs
 1- Rest-Assured
 2- TestNG
 3- Jxl to extract data from Excel files
+
 What is Data-Driven framework?
 ------------------------------
 - Framework which runs test case multiple times with different input and validation values. These values should be in external souce file such as Json, Xml, Excel .. etc.
@@ -14,6 +15,7 @@ Why Data-Driven framework?
 --------------------------
 - Reduces the maintainability of the scripts.
 - Makes it easy to add new test cases. To add new test cases
+
 
 Demo
 ------
